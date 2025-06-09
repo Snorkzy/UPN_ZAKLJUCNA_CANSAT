@@ -30,6 +30,11 @@ Celoten postopek se ponovi vsakih 1000 ms (1 sekunda), brez potrebe po interakci
 | Napajanje            | 5V / GND            |
 
 
+##Slika vezja
+![Opis slike]
+
+
+
 # KOSOVNICA (Potreben material)
 
 | #  | Element               | Količina | Opombe                             |
