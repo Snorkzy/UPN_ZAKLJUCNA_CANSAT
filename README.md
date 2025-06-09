@@ -44,7 +44,7 @@ Celoten postopek se ponovi vsakih 1000 ms (1 sekunda), brez potrebe po interakci
 
 | #  | Element               | Količina | Opombe                             |
 |----|-----------------------|----------|----------------------------------|
-| 1  | Arduino Uno           | 1        | Mikrokontrolerska plošča          |
+| 1  | Arduino Nano           | 1        | Mikrokontrolerska plošča          |
 | 2  | DHT11 senzor          | 1        | Temperatura in relativna vlažnost |
 | 3  | DPS310 senzor         | 1        | Barometrični tlak in temperatura  |
 | 4  | GPS modul (npr. Neo-6M) | 1      | Lokacijski modul                  |
