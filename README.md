@@ -30,8 +30,13 @@ Celoten postopek se ponovi vsakih 1000 ms (1 sekunda), brez potrebe po interakci
 | Napajanje            | 5V / GND            |
 
 
-##Slika vezja
-![Opis slike]
+## Slika vezja
+![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/slikaVezjaCansat.jpg?raw=true)
+![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/slikaVezjaCansat1.jpg?raw=true)
+
+## Vezalna shema
+
+![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/ShemaVezaveCANSAT.png?raw=true)
 
 
 
