@@ -58,7 +58,6 @@ Celoten postopek se ponovi vsakih 1000 ms (1 sekunda), brez potrebe po interakci
 
 Koda je v datoteki `koda.ino`.
 
-
 ## 🧪 Knjižnice
 
 Preveri, da imaš nameščene naslednje knjižnice (prek Library Managerja):
@@ -69,6 +68,34 @@ Preveri, da imaš nameščene naslednje knjižnice (prek Library Managerja):
 - `Adafruit Unified Sensor`
 - `SdFat` (za SD modul)
 - `SoftwareSerial`
+
+
+
+## Primer podatkov
+
+23.450;45.200;22.850;1013.250;150.72;46.123456;14.987654;250;12.50;7
+
+## Pojasnilo posameznih podatkov ločenih z ;
+
+| Pozicija | Podatek | Opis                                  |
+|----------|---------|-------------------------------------|
+| 1        | 23.450  | Temperatura zraka iz DHT11 (°C)      |
+| 2        | 45.200  | Relativna vlažnost zraka iz DHT11 (%)|
+| 3        | 22.850  | Temperatura iz DPS310 (°C)            |
+| 4        | 1013.250| Zračni tlak iz DPS310 (hPa)           |
+| 5        | 150.72  | Nadmorska višina iz barometričnega tlaka (m) |
+| 6        | 46.123456| GPS Latitude (decimalne stopinje)    |
+| 7        | 10.987654| GPS Longitude (decimalne stopinje)   |
+| 8        | 250     | GPS Višina nad morjem (m)             |
+| 9        | 12.50   | GPS Hitrost (km/h)                    |
+| 10       | 7       | Število satelitov                     |
+
+### Opomba:
+
+Če GPS trenutno ne zagotavlja veljavnih podatkov, se namesto teh vrednosti zapišejo ničle, da se ohrani konsistenten format:
+
+
+
 
 
 
