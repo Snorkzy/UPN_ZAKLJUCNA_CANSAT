@@ -31,12 +31,12 @@ Celoten postopek se ponovi vsakih 1000 ms (1 sekunda), brez potrebe po interakci
 
 
 ## Slika vezja
-![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/slikaVezjaCansat.jpg?raw=true)
-![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/slikaVezjaCansat1.jpg?raw=true)
+![Slika vezja](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/slikaVezjaCansat.jpg?raw=true)
+![Slika vezja](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/slikaVezjaCansat1.jpg?raw=true)
 
 ## Vezalna shema
 
-![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/ShemaVezaveCANSAT.png?raw=true)
+![Vezalna shema](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/ShemaVezaveCANSAT.png?raw=true)
 
 
 
@@ -75,7 +75,7 @@ Preveri, da imaš nameščene naslednje knjižnice (prek Library Managerja):
 
 23.450;45.200;22.850;1013.250;150.72;46.123456;14.987654;250;12.50;7
 
-![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/primerPodatkov.png?raw=true)
+![Podatki](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/primerPodatkov.png?raw=true)
 
 ## Pojasnilo posameznih podatkov ločenih z ;
 
@@ -96,6 +96,11 @@ Preveri, da imaš nameščene naslednje knjižnice (prek Library Managerja):
 
 Če GPS trenutno ne zagotavlja veljavnih podatkov, se namesto teh vrednosti zapišejo ničle, da se ohrani konsistenten format:
 
+## Izstrelitev
+
+
+
+https://github.com/user-attachments/assets/e86d74e7-77fa-446b-a6c7-f599e78b53fe
 
 
 
