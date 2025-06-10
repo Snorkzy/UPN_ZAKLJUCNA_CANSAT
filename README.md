@@ -75,6 +75,8 @@ Preveri, da imaš nameščene naslednje knjižnice (prek Library Managerja):
 
 23.450;45.200;22.850;1013.250;150.72;46.123456;14.987654;250;12.50;7
 
+![Opis slike](https://github.com/Snorkzy/UPN_ZAKLJUCNA_CANSAT/blob/main/primerPodatkov.png?raw=true)
+
 ## Pojasnilo posameznih podatkov ločenih z ;
 
 | Pozicija | Podatek | Opis                                  |
